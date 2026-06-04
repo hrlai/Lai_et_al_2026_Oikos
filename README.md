@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1257675571.svg)](https://zenodo.org/badge/latestdoi/1257675571)
+
 # Data and code for Lai et al. (2026) Oikos
 
 Welcome! This is a repository for the data and models in our paper:
